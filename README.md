@@ -68,6 +68,15 @@ http://code.google.com/p/leveldb/
 
 [2-clause BSD license](http://www.opensource.org/licenses/bsd-license.php)
 
+### RocksDB
+
+RocksDB is an optimized key-value store library based on LevelDB.
+
+http://rocksdb.org/
+https://github.com/facebook/rocksdb
+
+[2-clause BSD license](http://www.opensource.org/licenses/bsd-license.php)
+
 ### MySQL
 
 MySQL is a popular SQL database.
